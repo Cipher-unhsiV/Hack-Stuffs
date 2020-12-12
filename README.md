@@ -4,10 +4,25 @@
 
 ![PSX_20201210_113914](https://user-images.githubusercontent.com/64918181/101764807-83ae1a80-3b06-11eb-844c-55a0f43740c4.jpg)
 
-
 ## OBJECTIVE :-
+ 
+ Any tourist who had been to Mysuru must had went through all these issues,
+ - 1. Fare,
+ - 2. Regional eats & beverage, and
+ - 3. Navigation.
+ So we BARCAMPEEZ came up with a _solution_ which _acts as a bridge_ between a **Tourist** and the **Surrounding**. By, **Surrounding** I mean everything happening around the tourist! 
+            **_Sounds CRAZY right!!!_**
+  Our project is not lesser than the **technology assistants** we are using in the current world by _reputed companies_. The only difference is that we are **not reputed yet**!!
+  **_SO GIVE A TRY !!! WE GIVE YOU SATISFACTION!!! _**
 
 ## FEATURES :-
+
+All the below mentioned booking facilities are available in our project:-
+- 1. Accomodation 
+- 2. Food
+- 3. Sight-seeing
+- 4. Tourist places
+- 5. Rental travelling service
 
 ## TEAMMATES :-
 
