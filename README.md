@@ -13,11 +13,11 @@
 
 So we BARCAMPEEZ came up with a _solution_ which _acts as a bridge_ between a **Tourist** and the **Surrounding**. By, **Surrounding** I mean everything happening around the tourist! 
 
-**_Sounds CRAZY right!!!_**
+_**Sounds CRAZY right!!!**_
   
   Our project is not lesser than the **technology assistants** we are using in the current world by _reputed companies_. The only difference is that we are **not reputed yet**!!
   
-  **_SO GIVE A TRY !!! WE GIVE YOU SATISFACTION!!! _**
+  _**SO GIVE A TRY !!! WE GIVE YOU SATISFACTION!!! **_
 
 ## FEATURES :-
 
