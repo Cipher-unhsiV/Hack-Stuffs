@@ -27,6 +27,9 @@
 
 ## SCREEN-SHOTS :-
 ![ice_screenshot_20201210-195614](https://user-images.githubusercontent.com/64918181/101784988-3c358780-3b22-11eb-9ce1-0b33de9361b3.png)
+![ice_screenshot_20201213-100608](https://user-images.githubusercontent.com/64918181/102003973-2eeee780-3d32-11eb-852f-fe313721c18c.png)
+![ice_screenshot_20201213-100709](https://user-images.githubusercontent.com/64918181/102003975-31e9d800-3d32-11eb-9d55-44c08f010ef8.png)
+![ice_screenshot_20201213-100741](https://user-images.githubusercontent.com/64918181/102003976-344c3200-3d32-11eb-9db2-6fd237a8fab3.png)
 
 
 
