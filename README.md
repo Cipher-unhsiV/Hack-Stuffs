@@ -9,6 +9,13 @@
 
 ## FEATURES :-
 
+All the below mentioned booking facilities are available in our project:-
+- 1. Accomodation 
+- 2. Food
+- 3. Sight-seeing
+- 4. Tourist places
+- 5. Rental travelling service
+
 ## TEAMMATES :-
 
 | VISHNUVASAN | ABHIJEET CHATTERJEE | DIVYA |
